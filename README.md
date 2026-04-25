@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👩‍💻 Hania Mashal
 
-<!--
-**haniarai/haniarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Engineering Student | University of Lahore
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+I am an IT Engineering student interested in Software Engineering concepts, Quality Assurance (QA), and System Analysis. I enjoy learning how software systems work and improving my problem-solving skills.
+
+---
+
+## 💡 Skills
+- HTML5  
+- CSS3  
+- Basic JavaScript  
+- C++ (PF & OOP Basics)  
+- Git & GitHub  
+
+---
+
+## 🧪 Interests
+- Software Quality Assurance (QA)  
+- System Analysis  
+- Software Engineering Concepts  
+- Problem Solving  
+
+---
+
+## 🚀 Learning Goals
+- Improve programming fundamentals  
+- Build small real-world projects  
+- Gain practical experience in IT industry  
+
+---
+
+## 📌 Quote
+"Learning never stops in technology."
